@@ -1,0 +1,1 @@
+# Checking-normality-of-bent-functions-with-bent-squares
